@@ -1,1 +1,1 @@
-# RS_Lab
+# Recommendation System Lab
